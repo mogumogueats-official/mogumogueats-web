@@ -1,4 +1,4 @@
-# mogumogueats-web
+# MoguMoguEats-web
 
 mogumogueats is a campus-based food delivery platform which is devloped by Sean.K.
 User sign in with their Google accounts, select food items, confirm orders, and complete the delivery procss.
